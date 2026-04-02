@@ -1,4 +1,4 @@
-## stealth-build: building in the health tech space
+# building in stealth the health tech space
 
 <!--
 
